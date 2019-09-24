@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">User Rating</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="error_loading">Error Loading!! Try Again !!</string>
+    <string name="favourite">Favourite</string>
+</resources>
